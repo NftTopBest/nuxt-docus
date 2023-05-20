@@ -20,6 +20,7 @@
   "scripts": {
     "prepare": "nuxi prepare && nuxi prepare .starters/default",
     "dev": "nuxi dev .starters/default",
+    "dev:i18n": "nuxi dev .starters/i18n",
     "build": "nuxi build .starters/default",
     "generate": "nuxi generate .starters/default",
     "preview": "nuxi preview .starters/default",
